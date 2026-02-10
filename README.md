@@ -10,34 +10,34 @@ mariona.meriab@gmail.com <br>
 I am a Bioinformatics undergraduate student at Universitat Politècnica de Catalunya (UPC) with a strong interest in computational biology, data analysis, and programming. I am motivated by applying coda and algorithms to biological problems and aim to grow profecionally in research, industry, or applied artificial intelligence.
 
 ## Academic Background
-Education:
-    - BSc in Bioinformatics 
-    - Solid foundation in:
-        - Molecular Biology & Genetics
-        - Statistics & Mathematics
-        - Computer Science
-        - Data Analysis & Machine Learning
+Education: <br>
+    - BSc in Bioinformatics <br>
+    - Solid foundation in: <br>
+        - Molecular Biology & Genetics <br>
+        - Statistics & Mathematics <br>
+        - Computer Science <br>
+        - Data Analysis & Machine Learning <br>
 
 ## Technical Skills
-Programming & Tools:
-    - Languages: Python, R, Bash
-    - Data Analysis & ML: pandas, NumPy, caret
-    - Bioinformatics Tools: Genome analysis, k-mers, assembly, annotation
-    - Others: GitHub, LaTeX, RMarkdown
+Programming & Tools: <br>
+    - Languages: Python, R, Bash <br>
+    - Data Analysis & ML: pandas, NumPy, caret <br>
+    - Bioinformatics Tools: Genome analysis, k-mers, assembly, annotation <br>
+    - Others: GitHub, LaTeX, RMarkdown <br>
 
 ## Bioinformatics Experience
-Key Areas:
-    - Genomics: 
-        - Genome processing & analysis
-        - GC-content analysis
-        - Assemly & quality assessment
-    - Omics Data:
-        - Feature selection
-        - Classification models
-        - Biological interpretation of results
-    - Reproducible work:
-        - Structured scripts
-        - Organized project pipelines
+Key Areas: <br>
+    - Genomics: <br> 
+        - Genome processing & analysis <br>
+        - GC-content analysis <br>
+        - Assemly & quality assessment <br>
+    - Omics Data: <br>
+        - Feature selection <br>
+        - Classification models <br>
+        - Biological interpretation of results <br>
+    - Reproducible work: <br>
+        - Structured scripts <br>
+        - Organized project pipelines <br>
 
 
 ### Basic Usage
