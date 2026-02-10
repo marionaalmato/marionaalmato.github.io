@@ -1,28 +1,44 @@
-# [Start Bootstrap - Freelancer](https://startbootstrap.com/theme/freelancer/)
+# [Mariona Almató - Bioinformatic Student](https://www.linkedin.com/in/mariona-almat%C3%B3-4ab07233b/)
 
-[Freelancer](https://startbootstrap.com/theme/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
+Mariona Almató Baucells
+Bachelor's Degree in Bioinformatics
+[Universitat Politècnica de Catalunya (UPC) ](https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-bioinformatics)
+Barcelona, Spain
+mariona.meriab@gmail.com
 
-## Preview
+## About me:
+I am a Bioinformatics undergraduate student at Universitat Politècnica de Catalunya (UPC) with a strong interest in computational biology, data analysis, and programming. I am motivated by applying coda and algorithms to biological problems and aim to grow profecionally in research, industry, or applied artificial intelligence.
 
-[![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
+## Academic Background
+Education:
+    - BSc in Bioinformatics 
+    - Solid foundation in:
+        - Molecular Biology & Genetics
+        - Statistics & Mathematics
+        - Computer Science
+        - Data Analysis & Machine Learning
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
+## Technical Skills
+Programming & Tools:
+    - Languages: Python, R, Bash
+    - Data Analysis & ML: pandas, NumPy, caret
+    - Bioinformatics Tools: Genome analysis, k-mers, assembly, annotation
+    - Others: GitHub, LaTeX, RMarkdown
 
-## Status
+## Bioinformatics Experience
+Key Areas:
+    - Genomics: 
+        - Genome processing & analysis
+        - GC-content analysis
+        - Assemly & quality assessment
+    - Omics Data:
+        - Feature selection
+        - Classification models
+        - Biological interpretation of results
+    - Reproducible work:
+        - Structured scripts
+        - Organized project pipelines
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-freelancer/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-freelancer.svg)](https://www.npmjs.com/package/startbootstrap-freelancer)
-
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/freelancer/)
-- Install using npm: `npm i startbootstrap-freelancer`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-freelancer.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-freelancer)
-
-## Usage
 
 ### Basic Usage
 
