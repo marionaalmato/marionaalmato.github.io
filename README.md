@@ -1,10 +1,10 @@
 # [Mariona Almató - Bioinformatic Student](https://www.linkedin.com/in/mariona-almat%C3%B3-4ab07233b/)
 
-Mariona Almató Baucells
-Bachelor's Degree in Bioinformatics
-[Universitat Politècnica de Catalunya (UPC) ](https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-bioinformatics)
-Barcelona, Spain
-mariona.meriab@gmail.com
+Mariona Almató Baucells <br>
+Bachelor's Degree in Bioinformatics <br>
+[Universitat Politècnica de Catalunya (UPC) ](https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-bioinformatics) <br>
+Barcelona, Spain <br>
+mariona.meriab@gmail.com <br>
 
 ## About me:
 I am a Bioinformatics undergraduate student at Universitat Politècnica de Catalunya (UPC) with a strong interest in computational biology, data analysis, and programming. I am motivated by applying coda and algorithms to biological problems and aim to grow profecionally in research, industry, or applied artificial intelligence.
