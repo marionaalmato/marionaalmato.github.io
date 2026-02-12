@@ -1,4 +1,3 @@
-# [Mariona Almató - Bioinformatic Student](https://www.linkedin.com/in/mariona-almat%C3%B3-4ab07233b/)
 
 Mariona Almató Baucells <br>
 Bachelor's Degree in Bioinformatics <br>
